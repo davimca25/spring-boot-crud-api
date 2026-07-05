@@ -1,6 +1,6 @@
 Spring Boot CRUD API
 
-A robust REST API built with Spring Boot, following a layered architecture (Controller, Service, Repository) to ensure clean code and scalability. This project demonstrates the integration of database versioning and secure authentication.
+A robust REST API built with Spring Boot, following a layered architecture (Controller, Service, Repository) to ensure clean code and scalability.
 Technologies
 
     Java 17+
