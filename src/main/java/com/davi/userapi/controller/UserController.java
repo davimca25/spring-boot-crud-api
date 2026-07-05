@@ -3,7 +3,6 @@ package com.davi.userapi.controller;
 
 import com.davi.userapi.entity.User;
 import com.davi.userapi.service.UserService;
-import org.apache.logging.log4j.util.PerformanceSensitive;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
